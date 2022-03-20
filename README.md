@@ -1,4 +1,4 @@
-# NodeJsExpress-MongoDB-RESTAPI
+# Serverside Pagination React Table Library
 
 Server side Pagination in MERN Stack & React Table Library.
 
